@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import ArticleItem from '../components/ArticleItem.vue'
+// import ArticleItem from '../components/ArticleItem.vue'
 
 export default {
   name: 'IndexView',
